@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="segundo">Second Course</string>
+    <string name="bebidas">Drinks</string>
+    <string name="postre">Dessert</string>
+    <string name="primero">First Course</string>
+    <string name="resumen">Summary</string>
+    <string name="agua">WATER</string>
+    <string name="clipper">STRAWBERRY CLIPPER</string>
+    <string name="cer">BEER</string>
+    <string name="fanta">LEMON FANTA</string>
+    <string name="toast2">For exit or go back you need to go to the top menu</string>
+    <string name="salir">Exit</string>
+    <string name="volver">Back</string>
+    <string name="sopa">SOUP</string>
+    <string name="coctel">PRAWNS COCKTAIL</string>
+    <string name="tort">OMELETTE</string>
+    <string name="pap">FRIES</string>
+    <string name="pan">GARLIC BREAD</string>
+    <string name="aros">TEX-MEX HOOPS</string>
+    <string name="cal"> SQUIDS</string>
+    <string name="vuelta">SIRLOIN STEAK</string>
+    <string name="pechuga">CHICKEN BREASTS</string>
+    <string name="costillas">RIBS WITH BBQ SAUCE</string>
+    <string name="kebab">VEAL DÖNER  KEBAB</string>
+    <string name="principe">PRINCE ALBERTO</string>
+    <string name="flan">EGG CUSTARD</string>
+    <string name="mousse">CHOCOLATE MOUSSE</string>
+    <string name="leche">CUP ALMOND MILK</string>
+    <string name="tocino">YOGURT BACON</string>
+    <string name="limon">LEMON YOGURT </string>
+</resources>

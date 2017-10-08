@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="700dp" >
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/fondi"
+    tools:context="com.example.ayose.comandas2.Final">
+    <TextView
+        android:layout_width="400dp"
+        android:visibility="invisible"
+        android:layout_height="50dp"
+        android:text="PRIMER PLATO"
+        android:textColor="#4D4646"
+        android:textStyle="italic|bold"
+        android:background="@drawable/text"
+        android:textSize="30dp"
+        android:paddingLeft="60dp"
+        android:layout_marginTop="30dp"
+        android:paddingTop="10dp"
+        android:id="@+id/t1" />
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:textColor="#151515"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:layout_marginTop="80dp"
+        android:paddingTop="10dp"
+        android:id="@+id/t2" />
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:visibility="invisible"
+        android:text="SEGUNDO PLATO"
+        android:textColor="#4D4646"
+        android:textStyle="italic|bold"
+        android:background="@drawable/text"
+        android:textSize="30dp"
+        android:layout_marginTop="150dp"
+        android:paddingLeft="50dp"
+        android:paddingTop="10dp"
+        android:id="@+id/t3" />
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:textColor="#151515"
+        android:textAlignment="center"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"
+        android:layout_marginTop="190dp"
+        android:paddingTop="10dp"
+        android:id="@+id/t4" />
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:textColor="#151515"
+        android:textAlignment="center"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"
+        android:layout_marginTop="230dp"
+        android:paddingTop="10dp"
+        android:visibility="invisible"
+        android:text="TIPO:"
+        android:id="@+id/t43" />
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:textColor="#151515"
+        android:textAlignment="center"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"
+        android:layout_marginTop="250dp"
+        android:paddingTop="10dp"
+        android:id="@+id/t41" />
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:textColor="#151515"
+        android:textAlignment="center"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"
+        android:visibility="invisible"
+        android:layout_marginTop="230dp"
+        android:paddingTop="10dp"
+        android:text="ACOMPAÑAMIENTO:"
+        android:id="@+id/t44" />
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:textColor="#151515"
+        android:textAlignment="center"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"
+        android:visibility="invisible"
+        android:layout_marginTop="430dp"
+        android:paddingTop="10dp"
+        android:text="NOTAS:"
+        android:id="@+id/not" />
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:textColor="#151515"
+        android:textAlignment="center"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"
+        android:layout_marginTop="450dp"
+        android:paddingTop="10dp"
+        android:id="@+id/note" />
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:text="POSTRE"
+        android:textColor="#4D4646"
+        android:layout_marginTop="320dp"
+        android:textStyle="italic|bold"
+        android:background="@drawable/text"
+        android:textSize="30dp"
+        android:visibility="invisible"
+        android:paddingLeft="105dp"
+        android:paddingTop="10dp"
+        android:id="@+id/t5" />
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"
+        android:textColor="#151515"
+        android:textAlignment="center"
+        android:layout_marginTop="370dp"
+        android:paddingTop="10dp"
+        android:id="@+id/t52" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="FINALIZAR"
+        android:id="@+id/fin2"
+        android:layout_marginTop="600dp"
+        android:layout_marginLeft="80dp"
+        android:textSize="20dp"
+        android:textStyle="italic|bold"
+        android:background="@drawable/text"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:textColor="#151515"
+
+        />
+</RelativeLayout>
+</ScrollView>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="segundo">Segundo plato</string>
+    <string name="bebidas">Bebidas</string>
+    <string name="primero">Primer plato</string>
+    <string name="postre">Postre</string>
+    <string name="resumen">Resumen de pedido</string>
+    <string name="app_name" translatable="false">Samarkanda</string>
+    <string name="agua">AGUA</string>
+    <string name="clipper">CLIPPER DE FRESA</string>
+    <string name="cer">CERVEZA</string>
+    <string name="fanta">FANTA  LIMON</string>
+    <string name="toast2">Para salir o volver atras tiene que ir al menu de arriba</string>
+    <string name="salir">Salir</string>
+    <string name="volver">Volver atrás</string>
+    <string name="sopa">SOPA</string>
+    <string name="coctel">COCKTEL DE GAMBAS</string>
+    <string name="tort">TORTILLA</string>
+    <string name="pap">PAPAS LOCAS</string>
+    <string name="pan">PAN CON AJO</string>
+    <string name="aros">AROS TEX-MEX</string>
+    <string name="cal">CALAMARES SAHARIANOS</string>
+    <string name="vuelta">VUELTA DE SOLOMILLO</string>
+    <string name="pechuga">PECHUGA DE POLLO</string>
+    <string name="costillas">COSTILLAS A LA BARBACOA</string>
+    <string name="kebab">KEBAB DE TERNERA</string>
+    <string name="principe">PRINCIPE ALBERTO</string>
+    <string name="flan">FLAN DE HUEVO</string>
+    <string name="mousse">MOUSSE DE CHOCOLATE</string>
+    <string name="leche">LECHE ALMENDRADA</string>
+    <string name="tocino">TOCINO DE YOGUR</string>
+    <string name="limon">CREMA YOGUR LIMON</string>
+</resources>
