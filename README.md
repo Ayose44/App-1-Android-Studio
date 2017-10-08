@@ -7,6 +7,6 @@ showed in a touchable table where the client can choose what to eat and drink. W
 categories, there will be shown a summary page with his choise that the waiter will see when he comes to the table for take the order, 
 avoiding the interaction between the waiter and the client, the waiter will only need to see the table for know what the client ordered.
 
-The final apk with the result is on apk folder.
+The final apk with the result is on "final apk" folder.
 
 *There is a bug on drinks that in some mobile phones devices or Android emulators works but not in others, is in process to fix it.
