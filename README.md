@@ -1,6 +1,6 @@
 # App-1-Android-Studio
 This is an Android mobile phone application developed with Java and XML(design) in Android Studio. The code is in spanish and 
-the final result can be chosen by english or spanish in language button.
+the final result can be chosen by english or spanish in language button. For develop this app was used Intents, Bundles, Spinners..etc.But without a database.
 
 The app is for a Canary Islands Restaurant called "Samarkanda" (there will be some Canary Islands names) based on a virtual menu that is 
 showed in a touchable table where the client can choose what to eat and drink. When that client chooses at least 2 products from different 
